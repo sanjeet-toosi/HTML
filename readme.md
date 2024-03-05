@@ -5,3 +5,7 @@ git remote add origin git@github.com:sanjeet-toosi/HTML.git
 git add .
 git commit -m 'first commit'
 git push origin master
+
+
+
+add html 5 extension in your vscode
